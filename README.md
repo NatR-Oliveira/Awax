@@ -17,9 +17,6 @@ O Awax é uma landing page moderna desenvolvida para aprimorar conhecimentos em:
 
 * HTML5
 * CSS3
-* Google Fonts
-* Flexbox
-* Media Queries
 
 ## ✨ Funcionalidades
 
@@ -45,32 +42,13 @@ O projeto foi desenvolvido para adaptação em diferentes tamanhos de tela:
 
 Este projeto foi criado com fins de estudo e aprimoramento das habilidades em desenvolvimento front-end, praticando a construção de interfaces modernas e responsivas.
 
-## 📸 Preview
-
-Adicione aqui uma captura de tela do projeto.
-
-```html
-<img src="./assets/images/preview.png" alt="Preview do projeto">
-```
 
 ## 🚀 Como Executar
 
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/NatR-Oliveira/Awax.git
-```
-
-2. Entre na pasta do projeto:
-
-```bash
-cd Awax
-```
-
-3. Abra o arquivo `index.html` no navegador.
+https://natr-oliveira.github.io/Awax/
 
 ## 👩‍💻 Autora
 
-Natalia Rodrigues
+Natalia Rodrigues Oliveira
 
 Desenvolvedora Full Stack em formação.
